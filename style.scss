@@ -13,12 +13,26 @@
 /* BASE RULES */
 /**************/
 
+@font-face {
+  font-family: Vazir-Light;
+  font-style: normal;
+  font-weight: 200;
+  src: url('https://github.com/rastikerdar/vazir-font/raw/master/dist/Vazir-Light.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+       url('https://github.com/rastikerdar/vazir-font/raw/master/dist/Vazir-Light.eot'),
+       url('https://github.com/rastikerdar/vazir-font/raw/master/dist/Vazir-Light.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1$
+       url('https://github.com/rastikerdar/vazir-font/raw/master/dist/Vazir-Light.ttf') format('truetype');
+}
+
+* {
+  font-family: "Helvetica Neue", Helvetica, Vazir-Light, Arial, sans-serif
+}
+
 html {
   font-size: 100%;
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
