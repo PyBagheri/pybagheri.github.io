@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is **MohammadHossein Bagheri** and I live in Iran, the beautiful country.
+I'm a python developer and a thinker, I just think about what's happening around me.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+You can see information for contacting at footer, but I repeat it here.
+My E-mail: [1383mhbkh@gmail.com](mailto:1383mhbkh@gmail.com)
+My Github: [https://github.com/PyBagheri](https://github.com/PyBagheri/)
+And my twitter: [https://twitter.com/PyBagheri](https://twitter.com/PyBagheri)
